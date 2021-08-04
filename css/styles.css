@@ -1376,9 +1376,7 @@ left: 0;
     transition: color 250ms var(--transition-timing-function);
 }
 .contact-form {
-
 min-height:581px;
-
 margin: 0 auto;
 padding: 20px;
 }
